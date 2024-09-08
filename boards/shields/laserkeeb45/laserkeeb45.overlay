@@ -1,3 +1,5 @@
+#include <dt-bindings/zmk/matrix_transform.h>
+
 / {
     chosen {
         zmk,kscan = &kscan0;
@@ -31,11 +33,7 @@
             , <&pro_micro 5 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
             ;
     };
-  };
 
-#include <dt-bindings/zmk/matrix_transform.h>
-
-   {
     default_transform: keymap_transform_0 {
         compatible = "zmk,matrix-transform";
         columns = <12>;
