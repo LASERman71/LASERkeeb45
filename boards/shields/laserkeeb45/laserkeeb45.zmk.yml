@@ -1,0 +1,8 @@
+file_format: "1"
+id: laserkeeb45
+name: LASERkeeb45
+type: shield
+url: https://github.com/LASERman71/LASERkeeb45/
+requires: [pro_micro]
+features:
+  - keys
