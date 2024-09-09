@@ -1,4 +1,4 @@
-This is my first attempt with the ZMK for my first DIY keyboard poweered by Nice!nano. 
+This is my first build with the ZMK firmwre for my first DIY keyboard poweered by Nice!nano. 
 
 Here is the contraption:
 ![20240902_131605](https://github.com/user-attachments/assets/d0ed8dde-686a-496b-b832-5934ab6a62f2)
