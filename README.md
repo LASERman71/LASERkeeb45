@@ -13,7 +13,7 @@ BOM:
 7. JST header with cable from Mechboards: https://mechboards.co.uk/products/jst-ph-2-pin-cable-male-header?variant=41872696836301
 8. PCB type microswitch for reset glued to the bottom case
 9. 3mm LED x2 glued to the bottom case wired to replace Nice!nano onboard LEDs
-10. Red and green hook up wire for the switch matrix handwiring
+10. Hook up wires for the switch matrix handwiring from RS: https://uk.rs-online.com/web/p/hook-up-wire/2094811?searchId=24bcc432-4a59-4b2b-b894-762b6913c8c6&gb=s
 11. 5mm M2 screwws x6 self tapped to the case
 12. Custom keycaps from Yuzu Keycaps: https://yuzukeycaps.com/c/31d0a1a3-f3ec-4407-a81a-3ba7afc9da99
 
