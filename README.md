@@ -8,7 +8,7 @@ BOM:
 2. MMSD103T1G x45 diodes from Mouser: https://www.mouser.co.uk/ProductDetail/863-MMSD103T1G
 3. 3D Printed case in two parts (plate integrated with top piece) designed by https://github.com/Envious-Data
 4. Cheasecake switches from protoTypist https://prototypist.net/collections/jaes-curated-switch-collection/products/in-stock-cheesecake-switches
-5. Plate mounted TX AP stalilisers for spacebars
+5. Plate mounted TX AP stalilisers 2u x2 for spacebars
 6. Li-Po 603040 Battery 800mAh 3.7V plus JST cables https://www.amazon.co.uk/dp/B0CHP3W74W?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 7. JST header with cable from Mechboards: https://mechboards.co.uk/products/jst-ph-2-pin-cable-male-header?variant=41872696836301
 8. PCB type microswitch for reset glued to the bottom case
